@@ -1,9 +1,9 @@
 {
-    "channelID": "voice_channel_id",
+    "channelID": "1287449257862758442",
     "token": "bot_token",
     "mp3File": "support.mp3",
     "timeout": 1.5,
-    "textChannelID": "channel_id_for_send_alert",
-    "supportRoleID": "support_role_id",
-    "categoryID": "category_id_of_support"
+    "textChannelID": "1292208390336151674",
+    "supportRoleID": "1286500018261590097",
+    "categoryID": "1287448768257724459"
 }
